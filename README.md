@@ -31,3 +31,11 @@ Repository [here](https://github.com/barbosadiego/7days_react_alura)
 Link [here](https://barbosadiego.github.io/multi-step-form/)
 
 Repository [here](https://github.com/barbosadiego/multi-step-form)
+
+## Dogs API (React + Redux)
+
+![image](./images/dog-api.png)
+
+Link [here](https://barbosadiego.github.io/redux-dog-api/)
+
+Repository [here](https://github.com/barbosadiego/redux-dog-api)
